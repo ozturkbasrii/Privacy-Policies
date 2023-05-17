@@ -1,1 +1,25 @@
 User data is not used in Altitude Meter & Coordinates.
+
+Information about app:
+
+1. The purpose of the Altitude Meter & Coordinates app is to provide users with real-time altitude and coordinate information. It is designed to assist outdoor enthusiasts, hikers, climbers, and adventurers in accurately tracking their altitude and location during their activities.
+
+2. The main scope of the app is to offer a reliable and user-friendly tool for users to access their current altitude and precise coordinates while exploring the outdoors. It aims to enhance navigation, safety, and overall experience during outdoor adventures.
+
+3. The main features of the app include:
+
+   - Real-time Altitude Tracking: The app utilizes GPS technology to provide users with accurate and up-to-date altitude readings based on their current location.
+   
+   - Coordinates Display: Users can view their precise latitude and longitude coordinates, which can be useful for navigation and sharing location information.
+   
+   - Compass Functionality: The app has also include a built-in compass, enabling users to determine their direction and orient themselves in relation to their surroundings.
+
+4. The working mechanism or flow of the app typically involves the following steps:
+
+   - Upon launching the app, users grant the necessary location permissions to access their device's GPS data.
+   
+   - The app retrieves the user's current coordinates and altitude data using the device's GPS capabilities.
+   
+   - The app displays the real-time altitude reading and coordinates on the screen, allowing users to view their current position.
+   
+   - The app continuously updates the altitude and coordinates as the user moves, providing a dynamic and accurate representation of their location.
